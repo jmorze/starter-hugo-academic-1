@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: shield1
+    company_logo: shield1.svg
     location: California
     date_start: '2021-01-01'
     date_end: ''
